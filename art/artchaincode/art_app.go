@@ -30,7 +30,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"itpUtils"
+	"github.com/go-libs/iputils"
 	"os"
         "net/http"
         "io"
