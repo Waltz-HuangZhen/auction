@@ -30,7 +30,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/Waltz-HuangZhen/auction/itpUtils"
+	"Waltz-HuangZhen/auction/itpUtils"
 	"os"
         "net/http"
         "io"
@@ -38,8 +38,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/hyperledger/fabric/core/chaincode/shim"
-	pb "github.com/hyperledger/fabric/protos/peer"
+	"hyperledger/fabric/core/chaincode/shim"
+	pb "hyperledger/fabric/protos/peer"
 )
 
 ///////////////////////////////////////////////////////////////////////////////////////
